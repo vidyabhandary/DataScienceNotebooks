@@ -1,2 +1,2 @@
 # DataScienceNotebooks
-Misc Notebooks
+Misc Data Science Notebooks
